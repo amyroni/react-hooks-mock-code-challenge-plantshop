@@ -28,6 +28,18 @@ button.primary {
   color: white;
 }
 
+button.delete {
+  background-color: red;
+  margin-left: 5px;
+  color: white;
+}
+
+button.edit {
+  background-color: rgb(24, 24, 24);
+  margin-left: 5px;
+  color: white;
+}
+
 .app {
   margin: 0 auto;
   max-width: 1200px;
@@ -55,6 +67,10 @@ main {
   padding: 2rem 1rem;
   margin: 2rem 0;
   background-color: rgba(181, 250, 181, 0.5);
+}
+
+.edit-plant-form {
+  background-color: rgba(181, 217, 250, 0.5);
 }
 
 .new-plant-form form {

@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "15.99"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": "12.11"
     },
     {
       "id": 5,
